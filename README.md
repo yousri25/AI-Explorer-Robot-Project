@@ -67,7 +67,7 @@ The robot will:
 ## 📄 Documentation
 
 [FULL Course](Robot-dExploration-IA-Specifications-Techniques.pdf)  
-[Presentation](AI-ROBOT-Un-Systeme-Autonome-Intelligent-1.pdf)  
+[Presentation](AI-ROBOT-Un-Systeme-Autonome-Intelligent-.pdf)  
 
 ---
 
