@@ -1,7 +1,6 @@
 # 🤖 AI Robot – Autonomous Intelligent System
 
 An autonomous AI-powered robot that uses computer vision, a large language model, and wireless motor control to explore, analyze, and navigate its environment in real time.
-
 ---
 
 ## 📸 Robot
@@ -67,8 +66,8 @@ The robot will:
 
 ## 📄 Documentation
 
-Robot-dExploration-IA-Specifications-Techniques.pdf  
-AI-ROBOT-Un-Systeme-Autonome-Intelligent-1.pdf  
+[FULL Course](Robot-dExploration-IA-Specifications-Techniques.pdf)  
+[Presentation](AI-ROBOT-Un-Systeme-Autonome-Intelligent-1.pdf)  
 
 ---
 
