@@ -2,8 +2,6 @@
 
 An autonomous AI-powered robot that uses computer vision, a large language model, and wireless motor control to explore, analyze, and navigate its environment in real time.
 
-This project was developed for a state competition and achieved **2nd place** 🏆.
-
 ---
 
 ## 📸 Robot
