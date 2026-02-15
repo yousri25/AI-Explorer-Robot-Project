@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AI Server
+Comment=Launch AI Robot server and open in Firefox
+Exec=gnome-terminal -- bash -c "python3 /home/usri/code/Ai/Ai_Robot/explorations/server.py & sleep 2 && firefox http://localhost:8080; exec bash"
+Icon=web-browser
+Terminal=false
+Categories=Development;

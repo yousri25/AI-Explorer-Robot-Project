@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AI Robot
+Comment=Launch AI Robot main script
+Exec=gnome-terminal -- bash -c "python3 /home/usri/code/Ai/Ai_Robot/main.py; exec bash"
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;
